@@ -9,7 +9,6 @@ Started with revision of class and implemented rectangle. Explored inline functi
 ##### Thought:
 
 ##### Link:  [Click to see](https://github.com/lapalb/100DaysOfCode/blob/master/001.cpp) 
----
 
 ---
 ## Day: 
