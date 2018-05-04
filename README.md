@@ -2,5 +2,5 @@
 
 ## Contents
 
-* [Rules](rules.md)
+* [Code](Code)
 * [Log - click here to see my progress](log.md)
